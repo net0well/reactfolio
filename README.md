@@ -128,8 +128,8 @@ Directory: `/src/data/`
     	{
     		page: "home",
     		description:
-    			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-    		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+    			"I am a Fullstack developer with expertise in React. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
+    		keywords: ["Wellington", "Wellington N", "Wellington Neto"],
     	},
     ];
     ```
